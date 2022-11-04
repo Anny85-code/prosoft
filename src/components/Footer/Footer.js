@@ -11,7 +11,7 @@ const Footer = () =>{
                 <div className="container" >
                     <div className="row">
                         <div className={`col-lg-3 col-sm-6 ${styles.contain}`}>
-                            <p className={styles.logo}>Miritus</p>
+                            <p className={styles.logo}>Prosoft</p>
                             <p className={styles.text}>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed</p>
                             <p className={styles.text}>Lorem ipsum dolor sit amet</p>
                             <p className={styles.text}>Lorem ipsum dolor sit amet</p>

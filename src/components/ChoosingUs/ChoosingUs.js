@@ -8,7 +8,7 @@ const ChoosingUs = () =>{
     return(
         <div style={{backgroundColor: '#fff1e5'}}>
             <div className="container overflow-hidden">
-                <p data-aos='slide-right' data-aos-offset="220" className={styles.heading}>Top three the reason why you should choosing us.</p>
+                <p data-aos='slide-right' data-aos-offset="220" className={styles.heading}>Top three reasons why you should choose us.</p>
                 <p data-aos='slide-left' className={styles.sub_text}>In quo quaerimus, non numquam eius modi tempora incidunt</p>
                 <div className={`row ${styles.sub}`}>
                     <div data-aos='fade-right' className="col-md-4">
