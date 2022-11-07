@@ -2,7 +2,16 @@ import seo from '../../assets/home/seo.png';
 import web from '../../assets/home/web.png';
 import seo1 from '../../assets/individualService/Image.png';
 import seo2 from '../../assets/individualService/Image_2.png';
-
+import webmig1 from '../../assets/individualService/webmig.jfif';
+import webmig2 from '../../assets/individualService/webmig2.png';
+import webmain from '../../assets/individualService/webmain.jfif';
+import webmain2 from '../../assets/individualService/webmain2.png';
+import webservice from '../../assets/individualService/webservice2.jfif';
+import webservice2 from '../../assets/individualService/webservice4.jfif';
+import ecommerce from '../../assets/individualService/eccommerce.jfif';
+import ecommerce2 from '../../assets/individualService/eccommerce2.jfif';
+import cooperatewebsite from '../../assets/individualService/cooperateweb.jfif';
+import cooperate2 from '../../assets/individualService/cooperateweb2.jpg';
 const data = [
     {
         id: 1,
@@ -32,12 +41,12 @@ const data = [
         contents: [
             {
                 heading: 'Get The Maximum Benefits',
-                img: seo1,
+                img: webmig1,
                 content: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam'
             },
             {
                 heading: 'Get The Maximum Benefits',
-                img: seo2,
+                img: webmig2,
                 content: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam'
             },
         ]
@@ -47,7 +56,7 @@ const data = [
         heading: 'Corporate Web Design',
         content: 'Launch party pitch technology user experience innovator buzz stealth MVP business model.',
         to: '/',
-        icon: seo,
+        icon: cooperatewebsite,
         contents: [
             {
                 heading: 'Get The Maximum Benefits',
@@ -56,7 +65,7 @@ const data = [
             },
             {
                 heading: 'Get The Maximum Benefits',
-                img: seo2,
+                img: cooperate2,
                 content: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam'
             },
         ]
@@ -66,7 +75,7 @@ const data = [
         heading: 'E-Commerce System',
         content: 'Launch party pitch technology user experience innovator buzz stealth MVP business model.',
         to: '/',
-        icon: seo,
+        icon: ecommerce,
         contents: [
             {
                 heading: 'Get The Maximum Benefits',
@@ -75,7 +84,7 @@ const data = [
             },
             {
                 heading: 'Get The Maximum Benefits',
-                img: seo2,
+                img: ecommerce2,
                 content: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam'
             },
         ]
@@ -85,16 +94,16 @@ const data = [
         heading: 'Web Maintenance Service',
         content: 'Launch party pitch technology user experience innovator buzz stealth MVP business model.',
         to: '/',
-        icon: seo,
+        icon: web,
         contents: [
             {
                 heading: 'Get The Maximum Benefits',
-                img: seo1,
+                img: webmain,
                 content: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam'
             },
             {
                 heading: 'Get The Maximum Benefits',
-                img: seo2,
+                img: webmain2,
                 content: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam'
             },
         ]
