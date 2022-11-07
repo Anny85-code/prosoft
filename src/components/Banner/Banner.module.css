@@ -1,6 +1,6 @@
 .imgbox {
     height: 94vh;
-    background: url('../../assets/background.png');
+    background: url('../../assets/background3.jfif');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -14,7 +14,7 @@
 .text{
     font-size: 67px;
     /* width: 335px; */
-    color: #fff;
+    color: rgb(231, 183, 23);
     font-weight: 400;
 }
 .btn{
