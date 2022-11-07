@@ -1,5 +1,5 @@
 import React from "react";
-import bg from '../../assets/aboutUs/banner.png';
+import bg from '../../assets/aboutUs/aboutus.jpg';
 import SubBanner from '../../components/SubBanner';
 import Footer from "../../components/Footer";
 import Top from "../../components/AboutUs/Top";
