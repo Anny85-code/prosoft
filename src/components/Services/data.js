@@ -7,7 +7,7 @@ const data = [
     {
         id: 1,
         heading: 'SEO Service',
-        content: 'Launch party pitch technology user experience innovator buzz stealth MVP business model.',
+        content: 'Search Engine optimization startegies and tactics will increase organic search visibility on Google, generating leads, sales and revenue.',
         to: '/',
         icon: seo,
         contents: [

@@ -12,7 +12,7 @@ const data = [
     {
         id: 2,
         heading: 'Web migration services',
-        content: 'We our proper planning and testing, we can eliminate the risks of traffic loss, broken links etc.',
+        content: 'With our proper planning and testing, we can eliminate the risks of traffic loss, broken links etc.',
         to: '/',
         icon: web,
     },
