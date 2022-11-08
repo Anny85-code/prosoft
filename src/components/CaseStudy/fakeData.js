@@ -27,8 +27,8 @@ const fakeData = [
   },
   {
     id: 4,
-    designation: 'Marketing, SEO',
-    title: 'Dicta Sunt Explicabo',
+    designation: 'Efficient system, SEO',
+    title: 'Object Oriented Principles',
     img: img4,
     category: 'strategy',
   },

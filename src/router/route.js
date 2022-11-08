@@ -5,6 +5,7 @@ import IndividualService from "../views/individualService";
 import AboutUs from '../views/aboutUs';
 import ProjectDetails from "../views/projectDetails";
 import SMediaService from '../views/sMediaService';
+import QualityAssurance from '../views/sQualityAssurance';
 
 const routes = [
     {
@@ -34,6 +35,10 @@ const routes = [
     {
         components: <SMediaService />,
         to: '/sMediaService'
+    },
+    {
+        components: <QualityAssurance />,
+        to: '/qualityAssurance'
     }
 ];
 

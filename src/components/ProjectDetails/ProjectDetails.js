@@ -31,7 +31,7 @@ const ProjectDetails = () =>{
                             </div>
                             <div style={{borderBottom: '1px solid #ebe9ed'}} className={styles.cardMargin}>
                                 <p className={styles.cardL}>{project.card.categories}</p>
-                                <p className={styles.cardR}>Interior</p>
+                                <p className={styles.cardR}>Software</p>
                             </div>
                             <div style={{borderBottom: '1px solid #ebe9ed'}} className={styles.cardMargin}>
                                 <p className={styles.cardL}>Date</p>
