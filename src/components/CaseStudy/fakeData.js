@@ -6,15 +6,15 @@ import img4 from '../../assets/caseStudy/4.png';
 const fakeData = [
     {
         id: 1,
-        designation: 'Marketing, SEO',
-        title: 'Dicta Sunt Explicabo',
+        designation: 'Marketing, Installation',
+        title: 'Four Dell Pentium 4 Servers',
         img: img1,
         category: 'financial'
     },
     {
         id: 2,
-        designation: 'Marketing, SEO',
-        title: 'Dicta Sunt Explicabo',
+        designation: 'Personnel, SEO',
+        title: 'Human Resource Management',
         img: img2,
         category: 'human resources'
     },

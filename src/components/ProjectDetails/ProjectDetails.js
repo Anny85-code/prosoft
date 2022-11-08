@@ -76,7 +76,7 @@ const ProjectDetails = () =>{
             {/* Other Projects  */}
             <div className="container" style={{ paddingRight: '0px'}}>
                 <div className={`row mt-3 ${styles.tBody}`}>
-                    <p className={styles.pTitle}>Other project</p>
+                    <p className={styles.pTitle}>Other Projects</p>
                     <div>
                         <OtherProjects />
                     </div>
