@@ -5,8 +5,14 @@ import rmbanner from '../../assets/projectDetails/rmbanner.png';
 import rm from '../../assets/projectDetails/rm.webp';
 import projectImg1 from '../../assets/projectDetails/project1.png';
 import projectImg2 from '../../assets/projectDetails/project2.png';
+import projectImgf from '../../assets/projectDetails/imgf.png';
+import projectImgq from '../../assets/projectDetails/imgq.jpeg';
 import hrbg from '../../assets/projectDetails/hrbg.jpg';
 import hrsmall from '../../assets/projectDetails/hrsmall.webp';
+import hrmed from '../../assets/projectDetails/hrmed.jfif';
+import hrmedbg from '../../assets/projectDetails/hrmedbg.jpeg';
+import ss from '../../assets/projectDetails/ss.jfif';
+import ssbg from '../../assets/projectDetails/ssbg.jfif';
 
 const fakeData = [
     {
@@ -53,24 +59,24 @@ const fakeData = [
     },
     {
         id: 3,
-        banner: bannerImg,
+        banner: ssbg,
         title: 'Project Details',
-        heading: 'One of your best product become more stand out',
-        subHeading: 'Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt.',
+        heading: 'One of our best product that makes us stand out',
+        subHeading: 'Public, Software, Authority, Management, Certification, Government, Information, Security',
         card: {
-                client: 'Paula Ramsey',
-                categories: 'Interior',
-                date: '23 September 2020',
-                tags: 'branding, vintage, creative',
-                img: cardImg
+                client: 'Bassey Smir',
+                categories: 'Security',
+                date: '19 December 2016',
+                tags: 'Authority, System, Softwares',
+                img: ss
             
             },
-        para1: 'Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Volup Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt. tate exercitation incididunt aliquip deserunt. Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt. Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor.',
-        para2: 'Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Volup Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt. tate exercitation incididunt aliquip deserunt.',
-        para3: 'Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt.',
-        summary: 'Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Volup Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt. tate exercitation incididunt aliquip deserunt. Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Volup Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt. tate exercitation incididunt aliquip deserunt.',
-        img1: projectImg1,
-        img2: projectImg2,
+        para1: 'The public key infrastructure (PKI) sets up and upholds dependable networking environment by offering key and certificate management services that permits encryption together with digital signature facilities for many applications. The services are permitted in such a way that it is transparent and usable. The user authentication employs the PKI technology of the password in the electronic bidding system.',
+        para2: 'In considering the password based PKI technology, given that protection is carried out by means of password which is simpler for the user to memorize the private key it brings about another issue of password exposure',
+        para3: 'The fingerprint information can also be employed. In this case, the user authentication in which the security is strengthened as compared to other existing authentication technology can be done. As a result, the finger print information and the certificate can be stored in the finger print security token',
+        summary: 'As at present, public key infrastructure is employed for the exchange of public keys. This is defined by International Telecommunication Union and Telegraph (ITU-T) standard X.509. In this case, a user or node publishes its public key on a key server of some sort from which it can be downloaded by other peers after when the encrypted and signed messages can be exchanged. This requires every participating node to trust the key server within the PKI. The certificate revocation list (CRL) is used for the keeping of invalid keys and certificates.',
+        img1: projectImgq,
+        img2: projectImgf,
     },
     {
         id: 4,
@@ -116,22 +122,22 @@ const fakeData = [
     },
     {
         id: 6,
-        banner: bannerImg,
+        banner: hrmedbg,
         title: 'Project Details',
         heading: 'One of your best product become more stand out',
-        subHeading: 'Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt.',
+        subHeading: 'Expanded Implementation Of The Existing Electronic Health Records (Ehr) System To Non-Medical Areas: Barriers And Options Case Studies Examples',
         card: {
                 client: 'Paula Ramsey',
                 categories: 'Interior',
                 date: '23 September 2020',
                 tags: 'branding, vintage, creative',
-                img: cardImg
+                img: hrmed
             
             },
-        para1: 'Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Volup Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt. tate exercitation incididunt aliquip deserunt. Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt. Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor.',
-        para2: 'Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Volup Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt. tate exercitation incididunt aliquip deserunt.',
-        para3: 'Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt.',
-        summary: 'Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Volup Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt. tate exercitation incididunt aliquip deserunt. Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Volup Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt. tate exercitation incididunt aliquip deserunt.',
+        para1: 'Despite the risks and limitations, interoperable Electronic Health Record (HER) system continues to attract organizational interests due to its promise of process efficiency, permanence of health records, patient privacy, and secure operational environment (McGinn, et al., 2011). These characteristics had positive impact to the organizational profitability and, in the Medical Center, redound positively to employee benefits and development.',
+        para2: 'Expanding the implementation coverage of the EHR system to the Center’s entire medical system, to cover the non-hospital care units (e.g. pharmacies, coordinated care, etc.)',
+        para3: 'normally presumes a thorough testing of the existing EHR system in the medical areas and much of the initial implementation issues adequately addressed, if not fully resolved.',
+        summary: 'The following steps are patterned and modified from the recommendations of the U.S. Health and Human Services (2014). For instance, the numbers of steps are more (7 instead of 6) than what can be found in the USHHS outline.Step 1: Assessing the current practice: The current medical practice is assessed in areas such as level of administrative processes (in terms of organization, efficiency and documentation quality); clinical workflow (in terms of efficiency, high organization, and staff knowledge); data collection and reporting status (in terms of efficiency); staff computer literacy (level of knowledge, skill and comfort); access to high-speed internet connectivity; access to adequate financial capital; congruence with clinical priorities; and the presence of specific specialty requirements. Although most of these areas had been assessed during the first implementation of the existing EHR system, going through the process is beneficial in assessing the state of medical practice to detect weaknesses that should be corrected when expanding to the non-medical areas. New visioning and goal-setting are usually unnecessary. The same implementation leadership team will oversee the expansion.',
         img1: projectImg1,
         img2: projectImg2,
     },
