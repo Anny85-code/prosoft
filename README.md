@@ -18,8 +18,8 @@ Prosoft is a software engineering company that pride itself with it's expertise 
 
 To get the content of this project locally you need to run this command in your terminal:
 
-- git clone your https://github.com/Anny85-code/space-travelers-app.git
-- cd project space-travellers
+- git clone your https://github.com/Anny85-code/prosoft.git
+- cd prosoft
 - npm install
 - npm start
 
@@ -27,7 +27,7 @@ To get the content of this project locally you need to run this command in your 
 
 This project is deployed on a github page on the link below:
 
-- https://anny85-code.github.io/space-travelers-hub/
+- https://anny85-code.github.io/prosoft/
 
 ## Authors
 
