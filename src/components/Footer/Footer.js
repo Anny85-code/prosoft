@@ -44,7 +44,7 @@ const Footer = () =>{
               <div className={`col-lg-3 col-sm-6 ${styles.contain}`}>
                 <p className={styles.head}>Head Office</p>
                 <p className={styles.text}>
-                  Mojsija Zecevica, Berane, Montenegro
+                  54 Mojsija Zecevica, Berane, Montenegro
                 </p>
                 <p className={styles.text}>prosoftlimited@gmail.com</p>
                 <p className={styles.text}>(671) 555-0110</p>
