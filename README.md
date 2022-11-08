@@ -7,7 +7,7 @@ This is official Prosoft website project
 
 ## Description
 
-Prosoft is a software engineering company that pride itself with its expertise in software engineering and system security, it was founded by team of experts globally to offer her services to startups and large bussiness.
+Prosoft is a software engineering company that pride itself with it's expertise in software engineering and system security, it was founded by a team of experts globally to offer her services to startups and large bussiness.
 
 
 ## Built With
