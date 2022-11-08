@@ -31,7 +31,7 @@ function Testimonial() {
                 Our Testimonial
             </p>
             <p data-aos="slide-left" className={styles.subHead}>
-                Our trusted client review
+                Our trusted clients review
             </p>
 
             <Carousel
