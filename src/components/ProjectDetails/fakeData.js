@@ -1,6 +1,8 @@
 import bannerImg from '../../assets/projectDetails/banner.png';
 import cardImg from '../../assets/projectDetails/card.png';
 import pks from '../../assets/projectDetails/pks.webp';
+import rmbanner from '../../assets/projectDetails/rmbanner.png';
+import rm from '../../assets/projectDetails/rm.webp';
 import projectImg1 from '../../assets/projectDetails/project1.png';
 import projectImg2 from '../../assets/projectDetails/project2.png';
 import hrbg from '../../assets/projectDetails/hrbg.jpg';
@@ -93,22 +95,22 @@ const fakeData = [
     },
     {
         id: 5,
-        banner: bannerImg,
+        banner: rmbanner,
         title: 'Project Details',
-        heading: 'One of your best product become more stand out',
-        subHeading: 'Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt.',
+        heading: 'One of our product that makes us stand out',
+        subHeading: 'Computers, Software, Windows, Internet, Workplace, Laptop, Mobility, Office',
         card: {
-                client: 'Paula Ramsey',
-                categories: 'Interior',
-                date: '23 September 2020',
-                tags: 'branding, vintage, creative',
-                img: cardImg
+                client: 'Constance Robert',
+                categories: 'Software',
+                date: '1 April 2020',
+                tags: 'Windows, Internet, Workplace',
+                img: rm
             
             },
-        para1: 'Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Volup Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt. tate exercitation incididunt aliquip deserunt. Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt. Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor.',
-        para2: 'Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Volup Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt. tate exercitation incididunt aliquip deserunt.',
-        para3: 'Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt.',
-        summary: 'Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Volup Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt. tate exercitation incididunt aliquip deserunt. Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Volup Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt. tate exercitation incididunt aliquip deserunt.',
+        para1: 'Widget Wonders require wireless internet connection for access of company resources by sales department staff. Software applications such as word processors, spreadsheet and internet will be required by manufacturing department. The graphics and computer aided design (CAD) software are also needed by research and development department while MIS department will require extra processor and memory to support administrative tasks. Other requirements include the most appropriate operating system that can support all the departments and system security software.',
+        para2: 'Microsoft office software will be needed to provide word processing, excel spreadsheet for manufacturing department. Microsoft office will also provide ms outlook for internet access within manufacturing department. The same Microsoft office will provide PowerPoint presentation software for the sales department so that they can make presentations at sales meeting and conferences (Collins 2013)',
+        para3: 'Because of their high number, the sales department staff will need laptop computers with Bluetooth and Wi-Fi software features to enable every employee to access wireless network. The laptops will also enhance their mobility',
+        summary: 'The recommendations given above are based on the minimum required specifications. The recommendations will also last for three years given that new software technology upgrade do come to the market within the time frame of 2 to 3 years. The company will therefore be in a position to use the recommended software until the fresh ones are introduced to the market in approximately three years time after when it can decide to go for new purchase or upgrade. The change of technology will call for the company to embrace for change as accompany which applies advanced technologies to enhance its competitive position',
         img1: projectImg1,
         img2: projectImg2,
     },

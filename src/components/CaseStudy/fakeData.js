@@ -34,8 +34,8 @@ const fakeData = [
     },
     {
         id: 5,
-        designation: 'Marketing, SEO',
-        title: 'Dicta Sunt Explicabo',
+        designation: 'Recommendation, SEO',
+        title: 'Computers, Software, Windows, Internet',
         img: img1,
         category: 'financial'
     },
