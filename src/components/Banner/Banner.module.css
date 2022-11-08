@@ -14,7 +14,8 @@
 .text{
     font-size: 67px;
     /* width: 335px; */
-    color: rgb(231, 183, 23);
+    /* color: rgb(231, 183, 23); */
+    color: #937DC2;
     font-weight: 700;
 }
 .btn{
